@@ -2,7 +2,8 @@ welcome
 kheer
 chicken
 
-
+beans
+pizza
 
 
 
